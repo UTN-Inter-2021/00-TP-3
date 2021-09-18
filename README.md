@@ -22,3 +22,7 @@ La idea es que completes el código en las partes que se indica de la siguiente 
 ** En algunos casos se dejan ciertos tips **
 
 ## PARTE 00 - Mover el cubo
+
+Se busca completar el código que está en el Sketch: dados_parte_00 para que:
+- Se active y desactive una grilla que corte al cubo en la mitad y que permita visualizar el efecto de rotación de forma más ordenada. Esta grilla se invoca con dibujarGrilla(espacio) - espacio es un entero que determina el espacio de grillado. La función ya está armada, solamente es necesario completar el código que dibuja las líneas verticales y horizontales teniendo en cuenta ese espacio.
+- 
