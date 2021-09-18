@@ -94,7 +94,16 @@ void draw(){
   background(0);
     
   if (grillaOn) {
-    translate(0, -50,150);
+    // *** COMPLETAR ACÁ *** 
+    // -- acá es necesario solo agregar una TRASLACIÓN para dibujar la grilla en 
+    // el espacio correcto
+    // es decir que tu código tienen que ser
+    // translate(x, y, z);
+    // reemplazando obviamente x, y , z por los valores adecuados
+    // tener en cuenta la posición del cubo
+    // ya que buscamos que la grilla lo corte al medio
+    // *** FIN ***
+    
     dibujarGrilla(20);
     translate(0,50,-150);
   }
