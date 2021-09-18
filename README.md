@@ -31,6 +31,9 @@ Se busca completar el código que está en el Sketch: dados_parte_00 para que:
 
 - Se modifiquen los ángulos de rotación y se aplique la rotación al cubo en función de las teclas presionadas.
 
+![parte-00-2](https://user-images.githubusercontent.com/13876286/133911257-8ec19404-ed64-4f85-a79b-dbc5cb47a2e4.gif)
+
+
 ## PARTE 01 - Sumar una cámara
 
 ** IMPORTANTE: ** Hacer la parte 01 incorporando al código que está en el Sketch: dados_parte_01 lo que se completó en la Parte 00
