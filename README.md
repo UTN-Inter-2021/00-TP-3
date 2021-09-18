@@ -42,5 +42,6 @@ En ese Sketch se agrega una cámara y se busca completar el código para:
 - Calcular el ángulo de rotación de la cámara en función del uso del mouse
 
 
+![parte-00-3](https://user-images.githubusercontent.com/13876286/133911294-5293ee6a-a8b1-433d-8cb0-3d626246f370.gif)
 
 
