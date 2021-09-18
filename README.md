@@ -13,7 +13,8 @@ La actividad se divide en 2 etapas:
 - La etapa 1 que tiene dos partes 00 y 01 donde básicamente la idea es completar código en base a un sketch de Processing pre armado: centrarse en cómo usar la interacción (por el momento el teclado) y ubicarse en el espacio 3D
 - Incorporar una cámara propia con movimiento en base al mouse
 
-La idea es que completes el código en las partes que se indica de la siguiente manera
+La idea es que completes el código en las partes que se indica de la siguiente manera:
+
 // *** COMPLETAR ACÁ *** 
 // -- tú código para armar la grilla
 // *** FIN ***
