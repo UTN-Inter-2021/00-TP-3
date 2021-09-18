@@ -15,10 +15,10 @@ La actividad se divide en 2 etapas:
 
 La idea es que completes el código en las partes que se indica de la siguiente manera:
 
-// *** COMPLETAR ACÁ *** 
+``// *** COMPLETAR ACÁ ***
 // -- tú código para armar la grilla
 // *** FIN ***
-
+``
 
 ** En algunos casos se dejan ciertos tips **
 
