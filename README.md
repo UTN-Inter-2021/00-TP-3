@@ -25,6 +25,10 @@ La idea es que completes el código en las partes que se indica de la siguiente 
 
 Se busca completar el código que está en el Sketch: dados_parte_00 para que:
 - Se active y desactive una grilla que corte al cubo en la mitad y que permita visualizar el efecto de rotación de forma más ordenada. Esta grilla se invoca con dibujarGrilla(espacio) - espacio es un entero que determina el espacio de grillado. La función ya está armada, solamente es necesario completar el código que dibuja las líneas verticales y horizontales teniendo en cuenta ese espacio.
+
+![parte-00-1](https://user-images.githubusercontent.com/13876286/133911230-3c7e7786-7092-4513-85c2-a5db999d4f62.gif)
+
+
 - Se modifiquen los ángulos de rotación y se aplique la rotación al cubo en función de las teclas presionadas.
 
 ## PARTE 01 - Sumar una cámara
