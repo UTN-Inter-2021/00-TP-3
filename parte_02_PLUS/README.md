@@ -1,5 +1,5 @@
 
-# TP 3: Visualización y transformaciones - PARTE 2 (Optativa)
+# TP 3: Visualización y transformaciones - ETAPA 2 (Optativa)
 ## OBJETIVOS DE LA TAREA
 - Incorporar un shader a la escena
 
